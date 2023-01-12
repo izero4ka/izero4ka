@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
-<h3 align="center">A passionate QA Automation junior from Russia</h3>
+<h3 align="center">A passionate QA Automation junior from Russia🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izero4ka&label=Profile%20views&color=0e75b6&style=flat" alt="izero4ka" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **DOSamarov@yandex.ru**
 
-- 📄 Know about my experiences [I am working on IETM at the Russian Nuclear Center](I am working on IETM at the Russian Nuclear Center)
+- 📄 Know about my experiences **I am working on IETM at the Russian Nuclear Center**
 
 - ⚡ Fun fact **I know how to admit other people's mistakes :)**
 
