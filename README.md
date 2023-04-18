@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Interactive Electronic Technical Manual](https://xn--b1aecabnea2cbmcffd7av8a5o.xn--p1ai/ietr/?ysclid=lct5w3prqi212317187)
 
-- 🌱 I’m currently learning **Python, Selenium, Pytest, PyCharm**
+- 🌱 I’m currently learning **Python, Selenium, Pytest, JetBrains Aqua**
 
 - 💬 Ask me about **testing and test automation process**
 
